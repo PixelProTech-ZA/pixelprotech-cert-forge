@@ -1,153 +1,195 @@
-# PIXEL OFFICE v3
-### by PixelProTech Solutions — Johannesburg, ZA 🇿🇦
+# ⚡ PixelProTech Certificate Forge
 
-> *Free. Browser-based. Built different.*
-
-**Live Demo:** [pixelprotech-za.github.io/pixel-office](https://pixelprotech-za.github.io/pixel-office)
+> **Create professional training and skill certificates in seconds.**  
+> Built for educators, communities, workshops, and digital champions across South Africa. 🇿🇦
 
 ---
 
-## What is Pixel Office?
-
-A full offline-ready office suite that runs entirely in your browser. No downloads. No subscriptions. No Microsoft. No Google account.
-
-Built for South African students, entrepreneurs, repair technicians, hustlers, and small business owners who need professional documents fast — without paying for software.
+![PixelProTech](https://img.shields.io/badge/PixelProTech-Certificate%20Forge-7b2fff?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMiA3bDEwIDUgMTAtNUwxMiAyek0yIDE3bDEwIDUgMTAtNS0xMC01LTEwIDV6Ii8+PC9zdmc+)
+![Status](https://img.shields.io/badge/Status-Live-00d4aa?style=for-the-badge)
+![No Backend](https://img.shields.io/badge/Backend-None%20Required-ffd700?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-39ff14?style=for-the-badge)
+![Made in SA](https://img.shields.io/badge/Made%20in-South%20Africa%20🇿🇦-ff2d78?style=for-the-badge)
 
 ---
 
-## Three Apps. One File.
+## 🔥 Live Demo
 
-| App | Description |
+👉 **[pixelprotech-za.github.io/certificate-forge](https://pixelprotech-za.github.io/certificate-forge/)**
+
+---
+
+## 🏆 What Is This?
+
+**PixelProTech Certificate Forge** is a fully browser-based, zero-backend certificate creation platform. No login. No server. No subscriptions needed to get started.
+
+Built with a **cyber-academy aesthetic** and **South African township-tech energy** — this is not your average boring certificate tool. It's a digital achievement factory.
+
+---
+
+## ✨ Features
+
+### ⚙️ Certificate Generator
+- Enter recipient name, course title, trainer, date, score & organisation
+- Auto-generated unique Certificate ID (`PPT-2024-XXXX-XXXX`)
+- Live preview updates as you type — see changes instantly
+- 3D tilt effect on hover
+- Upload your own logo — appears directly on the certificate
+- 3 signature styles to choose from
+- AI-powered wording suggestions
+
+### 🎨 100+ Templates
+Organised into 10 categories:
+| Category | Description |
 |---|---|
-| **InkFlow Docs** | Rich text document editor with print support |
-| **Gridlock Sheets** | Spreadsheet with formula support and CSV export |
-| **Stagecraft Slides** | Slide editor with Present Mode and 4 themes |
+| ⌨ Typing | Speed & accuracy certifications |
+| 💼 Office Skills | MS Office, admin & productivity |
+| 📊 Data Capture | Data entry & database work |
+| 💻 Coding | Programming bootcamps & practice |
+| 🏫 School Workshops | Academic & learner achievements |
+| ⛪ Church Training | Faith & leadership programs |
+| 🌍 Community Programs | NGO, township & outreach awards |
+| 🤖 AI & Tech Skills | Digital transformation & AI tools |
+| 📄 CV Workshops | Career readiness & job prep |
+| 💡 Computer Literacy | Foundational digital skills |
+
+Each template has **Gold, Silver & Neon** variations with unique visual identities.
+
+### 📄 Download System
+- Download as a fully styled, **print-ready HTML file**
+- Open in any browser → Print → Save as PDF
+- Your uploaded logo is embedded — travels with the file
+- Donation-gated download to support the platform
+
+### ✅ Verification System
+- Every certificate carries a unique ID
+- Enter any ID on the Verify page to check authenticity
+- QR code generation for each certificate
+
+### 🎮 Gamification (XP Lab)
+- Earn XP for every action
+- 6 levels: Apprentice → Creator → Specialist → Expert → Master Forger → Legend
+- 12 unlockable achievements
+- Daily creator streak tracker
+- Top Creator leaderboard
+
+### 💎 Premium Visual Effects
+- Animated particle network background
+- Holographic shimmer on hero title
+- Glowing glassmorphism cards
+- Confetti explosion on certificate generation
+- Sound effects via Web Audio API
+- Futuristic loading screen
+- Cyber grid & scanline overlays
+- Matrix-style data streams
 
 ---
 
-## 28 Templates Across 15 Categories
-
-### Documents
-| Template | Category |
-|---|---|
-| CV — Elite (Skills matrix + timeline) | Career |
-| CV — Sidebar (Two-column layout) | Career |
-| Business Proposal | Business |
-| Church Service Programme | Church |
-| School Assignment (Cover + body) | Academic |
-| Student Research Report | Academic |
-| Tax Invoice (VAT + auto-total) | Finance |
-| Official Quotation | Finance |
-| Technician Job Card | Tech |
-| Repair Shop Inventory | Tech |
-| SA Formal Business Letter | Formal |
-| Street Brand Identity Brief | Brand |
-| Professional Portfolio Document | Creative |
-| AI-Ready Document Layout | AI |
-| Academic Essay | Academic |
-| Lecture / Study Notes | Academic |
-
-### Spreadsheets
-| Template | Category |
-|---|---|
-| Student Monthly Budget | Finance |
-| Small Business Budget | Business |
-| Marks Tracker | Academic |
-| Weekly Timetable | Planning |
-| Stock Inventory | Tech |
-| Invoice Log | Finance |
-
-### Slide Decks
-| Template | Category |
-|---|---|
-| Startup Pitch Deck | Business |
-| Church Service Slides | Church |
-| Lesson Plan Deck | Education |
-| Research Presentation | Academic |
-| Portfolio Deck | Creative |
-| Brand Story Deck | Brand |
-
----
-
-## Features
-
-- **Boot screen** with animated loading sequence
-- **Custom cursor** with neon glow effect
-- **Rich text editor** — bold, italic, underline, lists, tables, headings, dividers, signature lines
-- **Spreadsheet engine** — formulas, AutoSum, CSV export, 26 columns × 40 rows
-- **Slide editor** — multi-slide panel, 4 themes (Dark / Carbon / Stealth / Gold), fullscreen Present Mode
-- **Template modal** — browse and load any of 28 templates in one click
-- **Print-ready formatting** — clean print layout for all document templates
-- **Mobile responsive** — works on phones and tablets
-- **Zero dependencies** — pure HTML, CSS, JavaScript. No frameworks. No CDN required for core functionality.
-- **Offline capable** — works without internet after first load
-
----
-
-## Design System
+## 🖥️ Tech Stack
 
 ```
-Primary:    #7b2fff  (Neon Purple)
-Accent:     #00d4aa  (Teal)
-Background: #0A0A0F  (Deep Black)
-Text:       #F0F0F0  (Off White)
-Muted:      #7a7a9a  (Grey)
-
-Fonts: Bebas Neue (display) · Rajdhani (body) · JetBrains Mono (code/labels)
+HTML5       — Structure & semantic markup
+CSS3        — Animations, glassmorphism, responsive layout
+JavaScript  — All logic, state, effects (vanilla, no frameworks)
+Web Audio   — Sound effects (no audio files needed)
+Canvas API  — Particle system & QR code rendering
+FileReader  — Logo upload & base64 embedding
+localStorage — XP, streaks, achievements persistence
 ```
 
----
-
-## How to Use
-
-**Option 1 — GitHub Pages (recommended)**
-Just visit the live URL. Works instantly in any browser.
-
-**Option 2 — Download and run locally**
-1. Download `index.html`
-2. Open it in any browser
-3. No server needed
-
-**Option 3 — Self-host**
-Drop `index.html` on any static hosting platform — GitHub Pages, Netlify, Vercel, Afrihost.
+> 🚫 No React. No Vue. No Node. No database. No dependencies.  
+> ✅ One single HTML file. Works offline. Works everywhere.
 
 ---
 
-## Who It's For
+## 🚀 Getting Started
 
-- 🎓 **Students** — assignments, essays, research reports, study notes, marks tracking
-- 🔧 **Repair technicians** — job cards, inventory sheets, invoices, quotations
-- 💼 **Entrepreneurs** — business proposals, brand briefs, budgets, pitch decks
-- ⛪ **Churches** — service programmes, announcement slides, sermon notes
-- 🎨 **Creatives** — portfolio documents, brand story decks, presentation slides
-- 📋 **Job seekers** — two elite CV templates, formal letters
+### Option 1 — Use Online
+Just visit the live link — no setup needed:
+```
+https://pixelprotech-za.github.io/certificate-forge/
+```
 
----
+### Option 2 — Run Locally
+```bash
+# Clone the repo
+git clone https://github.com/PixelProTech-ZA/certificate-forge.git
 
-## Roadmap
+# Open in browser
+cd certificate-forge
+open index.html
+# or just double-click index.html
+```
 
-- [ ] Local save / load (localStorage)
-- [ ] PDF export
-- [ ] More CV layouts
-- [ ] Payslip template
-- [ ] School report card template
-- [ ] Dark/light mode toggle
-- [ ] Custom branding per template
-
----
-
-## About
-
-Built by **[PixelProTech Solutions](mailto:pixelprotechsolutions@gmail.com)**
-Johannesburg, Gauteng, South Africa
-
-On-site IT repair — laptops, phones, towers, TVs — serving JHB, Pretoria and broader Gauteng.
-
-📧 pixelprotechsolutions@gmail.com
-📞 076 645 9348
+That's it. No `npm install`. No build step. No config. Just open and go. ⚡
 
 ---
 
-*Pixel Office is free to use. If it helped you, share it.*
+## 💜 Support This Project
 
-**Built Different. 🇿🇦**
+This platform is **free to use** for everyone. If it helps you or your community, please consider supporting:
+
+```
+Bank:     Capitec Bank
+Number:   0636444766
+Name:     PixelProTech Solutions
+Ref:      CERT DOWNLOAD
+Amount:   Anything you can 🙏
+```
+
+After donating, send your **proof of payment** to WhatsApp:  
+📱 **[wa.me/27766459348](https://wa.me/27766459348)**
+
+---
+
+## 📞 Contact & Support
+
+| Channel | Details |
+|---|---|
+| 📱 WhatsApp | [076 645 9348](https://wa.me/27766459348) |
+| 📧 Email | [pixelprotechsolutions@gmail.com](mailto:pixelprotechsolutions@gmail.com) |
+| 🌍 Location | South Africa — Nationwide Service |
+
+---
+
+## 💼 Business & Custom Work
+
+We build **custom certificate templates** for:
+- 🏫 Schools & training centres
+- ⛪ Churches & faith organisations
+- 🌍 NGOs & community programs
+- 🏢 Businesses & corporates
+- 🎓 Bootcamps & workshops
+
+**Services include:**
+- Custom template design
+- White-label solutions
+- Bulk certificate generation
+- Institution branding packages
+
+📩 Get in touch: [pixelprotechsolutions@gmail.com](mailto:pixelprotechsolutions@gmail.com)
+
+---
+
+## ⚠️ Disclaimer
+
+PixelProTech certificates represent **training participation, practice achievements, workshops, and independently issued recognition awards**. They are **not official government-accredited qualifications** unless explicitly stated by a verified training partner.
+
+PixelProTech is an independent certificate creation and recognition platform. All certificates are issued at the discretion of the creator and are intended for motivational, commemorative, and internal training recognition purposes only.
+
+---
+
+## 📄 License
+
+MIT License — free to use, modify and share with attribution.
+
+---
+
+<div align="center">
+
+**Built with 🔥 by [PixelProTech Solutions](https://wa.me/27766459348)**  
+*South Africa's Digital Achievement Factory*
+
+⚡ **Forge Your Achievement** ⚡
+
+</div>
